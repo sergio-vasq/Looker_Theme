@@ -49,7 +49,7 @@ td.dimension {
     text-align: left;
 }
 
-/* Total row */
+/* Total row *
 tr:last-child td {
     font-weight: bold;
     background-color: #d9d9d9 !important;
