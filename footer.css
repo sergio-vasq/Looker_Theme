@@ -7,10 +7,10 @@ table thead {
 /* Center the footer text */
 table tbody td {
     text-align: center !important;
-    color: #F58220 !important; /* AutoZone orange */
+    color: black !important; /* AutoZone orange */
     font-weight: bold;
     border: none !important;
-    background: white !important;
+    background: #F58220 !important;
 }
 
 /* Remove extra table styling */
